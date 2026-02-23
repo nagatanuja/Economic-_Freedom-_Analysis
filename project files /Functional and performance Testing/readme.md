@@ -1,1 +1,0 @@
-Functional and performance Testing
